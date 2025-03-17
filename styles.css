@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: #4cff05;
+    border-radius: 5px;
+    background-image: url("/img/lifeofparty_thumbnail.gif");
+    background-size: contain;
+    background-repeat: repeat; 
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 20px 50px;
+}
+
+a:hover {
+    color: #ff0505;
+}
+
+a:visited {
+    color:rgb(51, 255, 0);
+}
