@@ -7,7 +7,7 @@
     font-weight: bold;
     color: #4cff05;
     border-radius: 5px;
-    background-image: url("/img/lifeofparty_thumbnail.gif");
+    background-image: url("img/lifeofparty_thumbnail.gif");
     background-size: contain;
     background-repeat: repeat; 
 }
@@ -17,7 +17,10 @@
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    margin: 20px 50px;
+    background-color: #b5b8c7;
+    border-radius: 5PX;
+    padding: 20px
+
 }
 
 a:hover {
@@ -26,4 +29,13 @@ a:hover {
 
 a:visited {
     color:rgb(51, 255, 0);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
 }
