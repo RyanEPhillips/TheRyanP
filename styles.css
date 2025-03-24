@@ -84,6 +84,13 @@ footer {
     color: #56575f;
 }
 
+.movies {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: auto; 
+}
+
 .movie {
     display: flex;
     flex-direction: column;
@@ -91,4 +98,3 @@ footer {
     align-items: center;
     text-align: center;
 }
-
