@@ -98,3 +98,11 @@ footer {
     align-items: center;
     text-align: center;
 }
+
+.total {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+
+}
