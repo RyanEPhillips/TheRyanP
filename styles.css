@@ -151,3 +151,12 @@ footer {
     display: block;
     margin: 20px auto;
 }
+
+#family-guy-quiz {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
