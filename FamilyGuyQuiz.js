@@ -2,7 +2,7 @@ const questions = [
   {
     question: "What is Peter's youngest son's name?",
     answer: "STEWIE",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNV7ASFpNVLXGSjX_LLGqls4QgAcaItej80EeBtNFzQ&s",
+    image: "img/Peter_G.jpeg",
     goodResponse: "Damn right",
     badResponse: "Warm up? OK!",
     goodAudio: "MP3/SGDamn.mp3",
@@ -11,7 +11,7 @@ const questions = [
   {
     question: "Who has a secret relationship with Mayor West?",
     answer: "MEG",
-    image: "https://www.slashfilm.com/img/gallery/new-family-guy-tribute-to-adam-west/intro-import.jpg",
+    image: "img/Mayor_West.jpeg",
     goodResponse: "Shhh it's a secret",
     badResponse: "Really",
     goodAudio: "MP3/Meg.mp3",
@@ -20,7 +20,7 @@ const questions = [
   {
     question: "What street do the Griffin's live on?",
     answer: "SPOONER",
-    image: "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/04/Family-Guy-the-Griffin-House.jpg",
+    image: "img/Family-Guy-the-Griffin-House.jpeg",
     goodResponse: "You probably know the house number too stalker",
     badResponse: "You SUCK!",
     goodAudio: "MP3/RH.mp3",
@@ -29,7 +29,7 @@ const questions = [
   {
     question: "What kind of pet does Quagmire have?",
     answer: "CAT",
-    image: "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/09/Quagmire-in-Family-Guy.jpg",
+    image: "img/Quagmire-in-Family-Guy.jpeg",
     goodResponse: "Of course he loves pussy",
     badResponse: "Are you even trying?",
     goodAudio: "MP3/Quag.mp3",
@@ -38,7 +38,7 @@ const questions = [
   {
     question: "Which one of Peter's friends lives across the street?",
     answer: "CLEVELAND",
-    image: "https://static.wikia.nocookie.net/familyguyfanon/images/1/10/The_Brown_House_%28Family_Guy%29.png/revision/latest?cb=20180405024241",
+    image: "img/The_Brown_House_29.jpeg",
     goodResponse: "Of course he does, except when he had his own show",
     badResponse: "Have you ever watched the show?",
     goodAudio: "MP3/Bath.mp3",
