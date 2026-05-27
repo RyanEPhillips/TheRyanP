@@ -30,7 +30,7 @@ const questions = [
     question: "What kind of pet does Quagmire have?",
     answer: "CAT",
     image: "img/Quagmire-in-Family-Guy.jpeg",
-    goodResponse: "Of course he loves pussy",
+    goodResponse: "Of course he loves cats",
     badResponse: "Are you even trying?",
     goodAudio: "MP3/Quag.mp3",
     badAudio: "MP3/Quagcat.mp3"

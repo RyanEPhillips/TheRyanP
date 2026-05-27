@@ -89,3 +89,15 @@ resetBtn.addEventListener("click", createBoard);
 
 // Initialize game
 createBoard();
+
+
+// Sound Board
+const soundclips = document.querySelectorAll('.sound-clip');
+
+soundclips.forEach(clip => {
+    clip.addEventListener('click', () => {
+        const audioSrc = clip.getAttribute('data-audio');
+        const audio = new Audio(audioSrc);
+        audio.play();
+    });
+});

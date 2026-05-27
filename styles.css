@@ -164,3 +164,33 @@ footer {
         height: auto;
     }
 }
+
+#sound-board {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: auto; 
+    background-color: rgb(20, 3, 255);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.sound-clip {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    img {
+        width: 200px;
+        height: auto;
+        border-radius: 50%;
+    }
+}
+
+img.sound-clip-img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
