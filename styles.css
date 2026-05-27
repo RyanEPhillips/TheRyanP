@@ -183,11 +183,12 @@ footer {
     text-align: center;
     font-size: medium;
     font-weight: bold;
-    img {
+}
+
+.sound-clip img {
         width: 200px;
         height: auto;
         border-radius: 50%;
-    }
 }
 
 img.sound-clip-img:hover {
