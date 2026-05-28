@@ -159,11 +159,12 @@ footer {
     background-color: white;
     padding: 5px;
     border-radius: 5px;
-    img {
-        width: 400px;
+}
+
+.family-guy-quiz     img {
+        width: 50%;
         height: auto;
     }
-}
 
 #sound-board {
     display: grid;
