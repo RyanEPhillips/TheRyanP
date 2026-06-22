@@ -41,7 +41,7 @@ body {
     background-color: black;
 }
 
-.container1 {
+.intro {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -195,4 +195,13 @@ footer {
 img.sound-clip-img:hover {
     transform: scale(1.1);
     transition: transform 0.3s ease;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #222;
+  padding: 15px 20px;
+  color: white;
 }
