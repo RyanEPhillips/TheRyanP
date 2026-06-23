@@ -187,8 +187,8 @@ footer {
 }
 
 .sound-clip img {
-        width: 200px;
-        height: auto;
+        width: 100px;
+        height: 100px;
         border-radius: 50%;
 }
 
@@ -202,6 +202,6 @@ img.sound-clip-img:hover {
   justify-content: space-between;
   align-items: center;
   background: #222;
-  padding: 15px 20px;
+  padding: auto;
   color: white;
 }
