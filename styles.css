@@ -199,6 +199,7 @@ img.sound-clip-img:hover {
 
 .nav-bar {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   background: #222;
